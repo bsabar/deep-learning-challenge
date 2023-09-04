@@ -12,7 +12,7 @@ This project is geared to use your knowledge of machine learning and neural netw
 ## Requirements Delivered 
 
 ### Preprocess the Data
--Create a dataframe containing the charity_data.csv data, and identify the target and feature variables in the dataset.
+- Create a dataframe containing the charity_data.csv data, and identify the target and feature variables in the dataset.
 - Drop the `EIN` and `NAME` columns.
 - Determine the number of unique values in each column.
 - For columns with more than 10 unique values, determine the number of data points for each unique value.
